@@ -1,3 +1,5 @@
 Disuruh bikin resolusi sama pak Dhika, anggap aja ini resolusi.
 - Mendalami SLiMS, Setiadi/Difoss, Wordpress dan Eprints.
 - Belajar Front-end dan Back-end. Fokus tujuan belajarnya untuk bisa mengembangkan atau berkontribusi pada SLiMS dan Setiadi/Difoss.
+- Belajar desain grafis.
+- Belajar analitik data.
